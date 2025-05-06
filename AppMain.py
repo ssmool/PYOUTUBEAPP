@@ -1,3 +1,5 @@
+#by:asytrick
+#github:ssmool
 from PY_YOUTUBE_SEARCH_ssmool import GetSearchList
 
 #GLOBAL VARIABLES
