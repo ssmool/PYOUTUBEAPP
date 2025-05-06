@@ -8,5 +8,7 @@ FROM PY_YOUTUBE_SEARCH_ssmool IMPORT GetSearchList, youtube_search
 BY CALL THE SEARCH LIST TRY: data = youtube_search('keyword for search', 10)
 
 BY:ASYTRICK
+
 GIT:github.com/ssmool/pyoutubeapp
+
 e-mail:eusmool@gmail.com
