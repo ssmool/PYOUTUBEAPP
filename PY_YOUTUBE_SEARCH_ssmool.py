@@ -1,6 +1,6 @@
-import os
 #by:asytrick
 #github:ssmool
+import os
 import webbrowser
 import requests
 import json
